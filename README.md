@@ -3,6 +3,10 @@ Este repositório contém o código-fonte do site pessoal de Renan Fox, um artis
 
 ## Estrutura do Projeto
 - `index.html`: O arquivo principal que contém a estrutura do site.
+- `sobre.html`: Página dedicada a informações sobre Renan Fox.
+- `repertorio.html`: Página que apresenta o repertório de Renan Fox.
+- `agenda.html`: Página com a agenda de eventos e apresentações.
+- `contato.html`: Página com informações de contato.
 - `assets/css/style.css`: Arquivo de estilos CSS que define a aparência do site.
 - `assets/js/script.js`: Arquivo JavaScript que adiciona interatividade ao site.
 - `assets/img/`: Diretório que contém todas as imagens utilizadas no site.
@@ -29,7 +33,7 @@ Para questões relacionadas ao desenvolvimento ou manutenção do site, entre em
 Eduardo Silva
 E-mail: eduardoalsilva45@gmail.com
 
-Para informações sobre o trabalho e projetos de Renan Fox, acesse o [site oficial de Renan Fox](https://renanfox.com) ou entre em contato diretamente com ele.
+Para informações sobre o trabalho e projetos de Renan Fox, acesse o [site oficial de Renan Fox](http://eduardoalsilva.github.io/renan-fox-website/) ou entre em contato diretamente com ele.
 
 ## Sobre o Projeto
 Este projeto é uma plataforma digital dedicada à apresentação e divulgação das obras e projetos artísticos de Renan Fox. O objetivo é criar um espaço visualmente atraente e interativo, onde os visitantes possam explorar o universo criativo do artista de forma envolvente e acessível.
